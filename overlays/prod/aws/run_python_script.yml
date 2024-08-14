@@ -1,4 +1,4 @@
-name: {{ new_repo_name }}-sync
+name: Flask-App863-sync
 
 on:
   workflow_dispatch:
